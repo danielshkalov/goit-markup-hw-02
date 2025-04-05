@@ -90,10 +90,7 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
-}
-.back-logo {
-    background-color: #FFFFFF;
-}
+} 
 .name-logo {
     background-color: #FFFFFF;
     font-weight: 500;
