@@ -1,12 +1,12 @@
 body {
-   font-family: "Roboto" sans-serif;
+   font-family: "Roboto", sans-serif;
    color: #434455;
    background-color: #FFFFFF;
 }
 
-.header-logo:hover, .header-logo:focus {
+.header-logo {
     background-color: #2e2f42;
-    font-family: "Raleway" sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -43,11 +43,11 @@ body {
  .address-logo:focus {
     color: #404bbf;
  }
- 
-
-.h1-logo {
+.section-1 {
     background-color: #2e2f42;
-    font-size: 56px;
+}
+.h1-logo {
+     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
@@ -63,26 +63,27 @@ body {
     color: #ffffff;
 }
 .button:hover, .button:focus {
-    color: #404bbf;
+    background-color: #404BBF;
+    color: #404BBF;
     cursor: pointer;
 }
 
-.h3-logo {
+.info-logo {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.p-h3-logo {
+.ph3-logo {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.img1-logo {
+.photo-logo {
     background-color: #F4F4FD;
 }
-.h2-logo {
+.team-logo {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -90,15 +91,17 @@ body {
     text-transform: capitalize;
     color: #2e2f42;
 }
-.h3-2logo {
+.back-logo {
     background-color: #FFFFFF;
+}
+.human-logo {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.p-h2-logo {
+.text-logo {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -112,22 +115,24 @@ body {
     text-transform: capitalize;
     color: #2e2f42;
 }
-.img-portfolio {
+.front-logo {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.p-portfolio {
+.front-logo {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.footer-logo:hover, .footer-logo:focus {
+.footer {
     background-color: #2e2f42;
-    font-family: "Raleway" sans-serif;
+}
+.footer-logo {
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -140,5 +145,6 @@ body {
 }
 .footer-p {
     line-height: 1.5;
+    color: #F4F4FD;
     letter-spacing: 0.02em;
 }
