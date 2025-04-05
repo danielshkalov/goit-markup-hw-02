@@ -25,14 +25,14 @@ body {
     color: #2e2f42;
  }
  .contacst-logo:hover, .contacst-logo:focus {
-    color: #404bbf;
+    color: var(#404bbf);
  }
  .address-logo {
     font-style: normal;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: var(#434455);
  }
  .navigation-logo:hover, .navigation-logo:focus {
     color: #404bbf;
