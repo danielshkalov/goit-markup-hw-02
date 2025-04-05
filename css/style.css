@@ -43,10 +43,10 @@ body {
  .address-logo:focus {
     color: #404bbf;
  }
-.section-1 {
+.section-logo {
     background-color: #2e2f42;
 }
-.h1-logo {
+.first-logo {
      font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -75,7 +75,7 @@ body {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.ph3-logo {
+.link-logo {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
@@ -94,7 +94,8 @@ body {
 .back-logo {
     background-color: #FFFFFF;
 }
-.human-logo {
+.name-logo {
+    background-color: #FFFFFF;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -115,7 +116,7 @@ body {
     text-transform: capitalize;
     color: #2e2f42;
 }
-.front-logo {
+.last-logo {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
