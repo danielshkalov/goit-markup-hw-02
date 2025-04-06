@@ -24,8 +24,15 @@ body {
     letter-spacing: 0.02em;
     color: #2e2f42;
  }
- .contacts-logo:hover, .contacts-logo:focus {
-    color: var(#404bbf);
+ .content-logo {
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+ }
+ .content-logo:hover, .content:focus {
+    color: #404bbf;
  }
  .address-logo {
     font-style: normal;
