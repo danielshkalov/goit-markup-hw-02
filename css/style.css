@@ -24,7 +24,7 @@ body {
     letter-spacing: 0.02em;
     color: #2e2f42;
  }
- .contacst-logo:hover, .contacst-logo:focus {
+ .contacts-logo:hover, .contacts-logo:focus {
     color: var(#404bbf);
  }
  .address-logo {
@@ -32,7 +32,9 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(#434455);
+ }
+ .navigation-logo {
+    color: #434455;
  }
  .navigation-logo:hover, .navigation-logo:focus {
     color: #404bbf;
